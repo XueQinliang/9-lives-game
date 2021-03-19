@@ -13,7 +13,7 @@ open the shell, follow the steps<br>
 
 a KEY means left，d KEY means right，s KEY means the props fall directly，q KEY means quit.
 
-![photo](assets/photo.PNG)
+![photo](photo.PNG)
 
 ## Support Platform
 
